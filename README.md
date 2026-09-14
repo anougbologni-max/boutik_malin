@@ -6,10 +6,7 @@ Application mobile Flutter de **gestion de stock** pour commerçants et artisans
 
 Boutik Malin permet à un commerçant local de suivre son inventaire (produits, quantités, prix) et d'être alerté quand un produit vient à manquer — sans dépendre d'une connexion internet, l'application fonctionnant entièrement en local sur l'appareil.
 
-Le contexte du projet, les choix de conception et les wireframes détaillés sont disponibles dans le dossier [`docs/`](docs/) :
-- [Cahier des charges](docs/01-cahier-des-charges.md)
-- [Dossier de conception visuelle](docs/02-conception-visuelle.md)
-- [Dossier de conception technique](docs/03-conception-technique.md)
+Le cahier des charges et les dossiers de conception (visuelle et technique) ont été soumis séparément en semaine 5.
 
 ## Fonctionnalités principales
 
