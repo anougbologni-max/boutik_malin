@@ -62,7 +62,13 @@ flutter test
 
 ## Captures d'écran
 
-_À ajouter : captures des écrans principaux (Dashboard, Catalogue, Détail produit, Nouveau mouvement) prises sur l'appareil de test._
+| Dashboard | Catalogue produits | Nouveau produit |
+|---|---|---|
+| ![Dashboard](screenshots/01-dashboard.jpg) | ![Produits](screenshots/02-produits.jpg) | ![Nouveau produit](screenshots/04-nouveau-produit-rempli.jpg) |
+
+| Historique | Paramètres | Édition du profil |
+|---|---|---|
+| ![Historique](screenshots/05-historique.jpg) | ![Paramètres](screenshots/07-parametres.jpg) | ![Édition profil](screenshots/06-parametres-edition.jpg) |
 
 ## Difficultés rencontrées
 
@@ -74,4 +80,5 @@ _À ajouter : captures des écrans principaux (Dashboard, Catalogue, Détail pro
 
 ## Auteur
 
-hello@alopro.net
+Amour Serge NOUGBOLOGNI
+anougbologni@gmail.com
